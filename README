@@ -1,0 +1,30 @@
+CONFIGURAÇÃO INICIAL 
+FORMA DE LER JSON/MIDDLEWARES
+ROTA INICIAL / ENDPOINT
+ENTREGAR UMA PORTA
+CRIAÇÃO DE ENDPOINT{
+    
+    GET
+    POST
+    DELET
+    PUT
+    PATCH
+
+}
+
+login MongoDB{
+    
+    matheusguarnier
+    m123s
+}
+
+Porta de acesso {
+    
+    all libery IP 
+}
+
+1 - STRING de conexão {
+    
+    mongodb+srv://mateusguarnier:<password>@api-tests.lx4b8oh.mongodb.net/?retryWrites=true&w=majority
+
+}
