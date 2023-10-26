@@ -1,0 +1,30 @@
+{
+  "name": "api-backend",
+  "version": "1.0.0",
+  "description": "Teste para o backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/cards.js localhost 3333"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Broseghini/API-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Broseghini/API-backend/issues"
+  },
+  "homepage": "https://github.com/Broseghini/API-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mysql2": "^3.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.51.0",
+    "nodemon": "^3.0.1"
+  }
+}
